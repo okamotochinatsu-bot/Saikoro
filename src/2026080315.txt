@@ -1,0 +1,16 @@
+RUN実行確認
+classファイルを実行終了
+RUN実行確認
++ クラスパス確認
+classファイルを実行終了
+RUN実行確認
+クラスパス確認
+classファイルを実行終了
+RUN実行確認
+C:/pleiades/2026-08/Saikoro.jarクラスパス確認
+classファイルを実行終了
+RUN実行確認
+カレントディレクトリ取得確認 + /c/pleiades/2024-09/workspace/Saikoro/src
+classファイルを実行終了
+RUN実行確認
+classファイルを実行終了

@@ -1,0 +1,5 @@
+カレントディレクトリ取得確認 + /c/pleiades/2024-09/workspace/Saikoro/src
+RUN実行確認
+カレントディレクトリ取得確認 + /c/pleiades/2024-09/workspace/Saikoro/src
+RUN実行確認
+カレントディレクトリ取得確認 + /c/pleiades/2024-09/workspace/Saikoro/src
