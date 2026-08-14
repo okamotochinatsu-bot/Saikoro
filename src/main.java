@@ -31,9 +31,6 @@ public class main {
 			// 終了メッセージ
 			fileLog.main(a + "回目で7が出ました。トータル" + t +"です\r\n");
 			fileLog.main("--------------\r\n");
-
 		}
-
 	}
-
 }
