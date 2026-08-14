@@ -33,4 +33,5 @@ public class main {
 			fileLog.main("--------------\r\n");
 		}
 	}
+	// ビルドテスト　３度目
 }
